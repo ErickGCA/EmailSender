@@ -9,7 +9,7 @@ This project is a simple Python script for sending emails to multiple recipients
 - Uses environment variables for secure management of email credentials.
 
 ## Prerequisites
-- **Python 3.x**
+- **Python 3.12.3**
 - **A Gmail account**
 - **`dotenv` library for environment variable management**
 
